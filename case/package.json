@@ -1,0 +1,24 @@
+{
+  "name": "aui",
+  "version": "1.0.0",
+  "description": "Radconnext UI Module",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rad",
+    "Connext"
+  ],
+  "author": "oudsoft",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquery-simple-upload": "^1.1.0",
+    "jquery.cookie": "^1.4.1",
+    "tui-image-editor": "^3.10.0"
+  }
+}
